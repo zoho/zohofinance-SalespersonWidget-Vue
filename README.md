@@ -1,4 +1,4 @@
-# Salesperson_Vue
+# Salesperson-Vue
 
 ## Description
 
