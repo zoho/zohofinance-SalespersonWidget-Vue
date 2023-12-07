@@ -21,7 +21,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 2. Create connections and paste the connnection_link_name [here](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/47d2d79b6e8535c036e2b85b476de5f3529bbde0/salesperson-vue-app/src/main.js#L20).and also paste in [plugin-manifest.json](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/47d2d79b6e8535c036e2b85b476de5f3529bbde0/Salesperson-settingWidget/plugin-manifest.json#L21) and ensure the scopes that you created in your developer portal
 
               
-## Development Process of Salesperson React Widget:
+## Development Process of Salesperson Widget:
 * Clone Repository
 * You have two folders react app and settings Widget
 * Run `npm install` in each folder
