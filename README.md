@@ -17,7 +17,7 @@
 ## Prerequisites:
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from [Node.js website](https://nodejs.org/).
-1. Create a Global Field in the developer portal and paste the field API name [here](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/6a63e7d84d6adb4ddca4b4bb3bb6946fb9dcad58/salesperson-vue-app/src/main.js#L21)
+1. Create a Global Field in the developer portal and paste the field API name [here](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/47d2d79b6e8535c036e2b85b476de5f3529bbde0/salesperson-vue-app/src/main.js#L21)
 2. Create connections and paste the connnection_link_name [here](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/47d2d79b6e8535c036e2b85b476de5f3529bbde0/salesperson-vue-app/src/main.js#L20).and also paste in [plugin-manifest.json](https://github.com/zoho/zohofinance-SalespersonWidget-Vue/blob/47d2d79b6e8535c036e2b85b476de5f3529bbde0/Salesperson-settingWidget/plugin-manifest.json#L21) and ensure the scopes that you created in your developer portal
 
               
